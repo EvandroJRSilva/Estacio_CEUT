@@ -1,0 +1,3 @@
+[submodule "Minicursos"]
+	path = Minicursos
+	url = https://github.com/EvandroJRSilva/Minicursos

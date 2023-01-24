@@ -1,3 +1,9 @@
 # Repositório Estácio CEUT
 
-Neste repositório estarão todos os workspaces relacionados às disciplinas lecionadas por mim na Faculdade Estácio CEUT. Cada disciplina tem sua própria pasta com seu respectivo repositório e **README** contendo as informações necessárias e relevantes.
+Repositório central para as disciplinas e minicursos lecionados.
+
+-----
+
+## Minicursos
+
+Cursos breves, normalmente com 03 ou 04 aulas/partes. Geralmente ministrados durante as férias. O repositório contém, além do `pdf` das aulas, os arquivos fonte do template `beamer` utilizado.
