@@ -12,5 +12,7 @@ Minicursos disponíveis:
 
 - Redes de Computadores
 - Introdução a IA
+- Aprendizagem de Máquina
+- Introdução a Python
 
 Com o tempo, os demais minicursos ministrados serão adicionados.
