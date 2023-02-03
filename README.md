@@ -11,8 +11,6 @@ Cursos breves, normalmente com 03 ou 04 aulas/partes. Geralmente ministrados dur
 Minicursos disponíveis:
 
 - Redes de Computadores
-- Introdução a IA
-- Aprendizagem de Máquina
-- Introdução a Python
-
-Com o tempo, os demais minicursos ministrados serão adicionados.
+- Introdução ao Aprendizado de Máquina
+- Introdução à Inteligência Artificial
+- Introdução à Linguagem de Programação Python
