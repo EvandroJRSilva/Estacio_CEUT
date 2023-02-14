@@ -14,3 +14,11 @@ Minicursos disponíveis:
 - Introdução ao Aprendizado de Máquina
 - Introdução à Inteligência Artificial
 - Introdução à Linguagem de Programação Python
+
+-----
+
+## Disciplinas
+
+Materiais das disciplinas ministradas: apresentação (com datas e demais informações), slides e códigos de programação.
+
+- [ARA0062 - Desenvolvimento Web em HTML5, CSS, JavaScript e PHP](https://github.com/EvandroJRSilva/ARA0062)

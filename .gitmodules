@@ -1,3 +1,6 @@
 [submodule "Minicursos"]
 	path = Minicursos
 	url = https://github.com/EvandroJRSilva/Minicursos
+[submodule "ARA0062"]
+	path = ARA0062
+	url = https://github.com/EvandroJRSilva/ARA0062
