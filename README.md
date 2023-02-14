@@ -4,9 +4,11 @@ Repositório central para as disciplinas e minicursos lecionados.
 
 -----
 
-## Minicursos
+## [Minicursos](https://github.com/evandrojrsilva/minicursos)
 
-Cursos breves, normalmente com 03 ou 04 aulas/partes. Geralmente ministrados durante as férias. O repositório contém, além do `pdf` das aulas, os arquivos fonte do template `beamer` utilizado.
+![GitHub last commit](https://img.shields.io/github/last-commit/evandrojrsilva/minicursos?style=for-the-badge)
+
+Cursos breves, normalmente com 03 ou 04 aulas/partes. Geralmente ministrados durante as férias. O repositório contém, além do `pdf` das aulas, os arquivos fonte do template `beamer` utilizado e códigos fonte, caso envolva programação.
 
 Minicursos disponíveis:
 
