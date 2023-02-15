@@ -24,3 +24,23 @@ Minicursos disponíveis:
 Materiais das disciplinas ministradas: apresentação (com datas e demais informações), slides e códigos de programação.
 
 - [ARA0062 - Desenvolvimento Web em HTML5, CSS, JavaScript e PHP](https://github.com/EvandroJRSilva/ARA0062)
+
+-----
+
+## Como baixar
+
+Abra seu terminal (e.g., prompt de comando) na pasta desejada (usando `cd`, ou abrindo o terminal a partir da pasta). Digite:
+
+`git clone https://github.com/EvandroJRSilva/Estacio_CEUT`
+
+Ao baixar este repositório, os demais repositórios listados (que estão como submódulos) serão baixados automaticamente. Porém, existe a possibilidade de apenas as pastas dos submódulos serem criadas, mas seus conteúdos não tenham sido baixados. Neste caso você pode escrever os seguintes comandos no terminal:
+
+`git submodule init`
+
+`git submodule update`
+
+Outra maneira de baixar, garantindo que os submódulos serão baixados, com apenas um comando é:
+
+`git clone --recurse-submodules https://github.com/EvandroJRSilva/Estacio_CEUT`
+
+Fique atento para quaisquer modificações tanto neste repositório, quanto nos demais, para que você esteja sempre com a versão mais recente.
