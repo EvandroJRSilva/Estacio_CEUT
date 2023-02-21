@@ -10,10 +10,10 @@ Cursos breves, normalmente com 03 ou 04 aulas/partes. Geralmente ministrados dur
 
 Minicursos disponíveis:
 
-- Redes de Computadores
-- Introdução ao Aprendizado de Máquina
-- Introdução à Inteligência Artificial
-- Introdução à Linguagem de Programação Python
+- [Redes de Computadores](https://github.com/EvandroJRSilva/Minicursos/tree/main/Redes)
+- [Introdução ao Aprendizado de Máquina](https://github.com/EvandroJRSilva/Minicursos/tree/main/Intro_ML)
+- [Introdução à Inteligência Artificial](https://github.com/EvandroJRSilva/Minicursos/tree/main/Introdução_IA)
+- [Introdução à Linguagem de Programação Python](https://github.com/EvandroJRSilva/Minicursos/tree/main/Intro_Python)
 
 -----
 
@@ -22,6 +22,12 @@ Minicursos disponíveis:
 Materiais das disciplinas ministradas: apresentação (com datas e demais informações), slides e códigos de programação.
 
 - [ARA0062 - Desenvolvimento Web em HTML5, CSS, JavaScript e PHP](https://github.com/EvandroJRSilva/ARA0062)
+- [ARA0066 - Paradigmas de Linguagens de Programação em Python](https://github.com/EvandroJRSilva/ARA0066)
+- [ARA0095 - Desenvolvimento Rápido de Aplicações em Python](https://github.com/EvandroJRSilva/ARA0095)
+- [ARA0168 - Tópicos de Big Data em Python](https://github.com/EvandroJRSilva/ARA0168)
+- [ARA0301 - Programação de Microcontroladores](https://github.com/EvandroJRSilva/ARA0301)
+- [ARA0370 - Protocolos de Redes de Computadores](https://github.com/EvandroJRSilva/ARA0370)
+- [CCT0695 - Programação II](https://github.com/EvandroJRSilva/CCT0695)
 
 -----
 

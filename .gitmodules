@@ -4,3 +4,21 @@
 [submodule "ARA0062"]
 	path = ARA0062
 	url = https://github.com/EvandroJRSilva/ARA0062
+[submodule "ARA0066"]
+	path = ARA0066
+	url = https://github.com/EvandroJRSilva/ARA0066
+[submodule "ARA0095"]
+	path = ARA0095
+	url = https://github.com/EvandroJRSilva/ARA0095
+[submodule "ARA0168"]
+	path = ARA0168
+	url = https://github.com/EvandroJRSilva/ARA0168
+[submodule "ARA0301"]
+	path = ARA0301
+	url = https://github.com/EvandroJRSilva/ARA0301
+[submodule "ARA0370"]
+	path = ARA0370
+	url = https://github.com/EvandroJRSilva/ARA0370
+[submodule "CCT0695"]
+	path = CCT0695
+	url = https://github.com/EvandroJRSilva/CCT0695
